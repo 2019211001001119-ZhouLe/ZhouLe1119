@@ -1,0 +1,15 @@
+D:\Z\ZhouLe1119\w1hw3app\bin\Debug\net6.0\W1HW3App.exe
+D:\Z\ZhouLe1119\w1hw3app\bin\Debug\net6.0\W1HW3App.deps.json
+D:\Z\ZhouLe1119\w1hw3app\bin\Debug\net6.0\W1HW3App.runtimeconfig.json
+D:\Z\ZhouLe1119\w1hw3app\bin\Debug\net6.0\W1HW3App.dll
+D:\Z\ZhouLe1119\w1hw3app\bin\Debug\net6.0\W1HW3App.pdb
+D:\Z\ZhouLe1119\w1hw3app\obj\Debug\net6.0\W1HW3App.csproj.AssemblyReference.cache
+D:\Z\ZhouLe1119\w1hw3app\obj\Debug\net6.0\W1HW3App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Z\ZhouLe1119\w1hw3app\obj\Debug\net6.0\W1HW3App.AssemblyInfoInputs.cache
+D:\Z\ZhouLe1119\w1hw3app\obj\Debug\net6.0\W1HW3App.AssemblyInfo.cs
+D:\Z\ZhouLe1119\w1hw3app\obj\Debug\net6.0\W1HW3App.csproj.CoreCompileInputs.cache
+D:\Z\ZhouLe1119\w1hw3app\obj\Debug\net6.0\W1HW3App.dll
+D:\Z\ZhouLe1119\w1hw3app\obj\Debug\net6.0\refint\W1HW3App.dll
+D:\Z\ZhouLe1119\w1hw3app\obj\Debug\net6.0\W1HW3App.pdb
+D:\Z\ZhouLe1119\w1hw3app\obj\Debug\net6.0\W1HW3App.genruntimeconfig.cache
+D:\Z\ZhouLe1119\w1hw3app\obj\Debug\net6.0\ref\W1HW3App.dll
